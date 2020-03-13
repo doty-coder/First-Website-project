@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4fd1044-d36f-4621-a0d1-8863b8faafdb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yf69Pnf7jM99yJwwIXES4cUhLN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PhpstormProjects\Navbar\images" />
+      <recent name="C:\Users\user\PhpstormProjects\Navbar\video" />
+      <recent name="C:\Users\user\PhpstormProjects\Navbar\images\logo" />
+      <recent name="C:\Users\user\PhpstormProjects\Navbar" />
+      <recent name="C:\Users\user\PhpstormProjects\Navbar\bootstrap\js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4fd1044-d36f-4621-a0d1-8863b8faafdb" name="Default Changelist" comment="" />
+      <created>1583321149305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583321149305</updated>
+      <workItem from="1583321151196" duration="386000" />
+      <workItem from="1583322258599" duration="6447000" />
+      <workItem from="1583411524340" duration="2102000" />
+      <workItem from="1583439490309" duration="4764000" />
+      <workItem from="1583491833387" duration="1404000" />
+      <workItem from="1583493748558" duration="26000" />
+      <workItem from="1583501245177" duration="4907000" />
+      <workItem from="1583684057422" duration="5075000" />
+      <workItem from="1583696111368" duration="2165000" />
+      <workItem from="1583716755444" duration="1613000" />
+      <workItem from="1583731279507" duration="13170000" />
+      <workItem from="1583753947704" duration="576000" />
+      <workItem from="1583755808019" duration="2203000" />
+      <workItem from="1583816645949" duration="254000" />
+      <workItem from="1583845648513" duration="3802000" />
+      <workItem from="1583849825999" duration="4189000" />
+      <workItem from="1583859570137" duration="12010000" />
+      <workItem from="1583897620225" duration="5483000" />
+      <workItem from="1583922768785" duration="3674000" />
+      <workItem from="1583983159019" duration="14480000" />
+      <workItem from="1584011537529" duration="18780000" />
+      <workItem from="1584063917502" duration="2441000" />
+      <workItem from="1584067381755" duration="242000" />
+      <workItem from="1584069919127" duration="7367000" />
+      <workItem from="1584093418101" duration="4064000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583741359177">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1583741359177" />
+    <state x="184" y="37" key="SettingsEditor" timestamp="1584023237936">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="37" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584023237936" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1584078575979">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1584078575979" />
+  </component>
+</project>
